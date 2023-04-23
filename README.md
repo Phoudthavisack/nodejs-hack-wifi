@@ -3,7 +3,7 @@
 1. First, clone the repository:
 
 ```
-git clone <https://github.com/Phoudthavisack/nodejs-hack-wifi.git>
+git clone https://github.com/Phoudthavisack/nodejs-hack-wifi.git
 
 ```
 
